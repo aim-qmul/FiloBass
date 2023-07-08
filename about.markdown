@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is the companion website for the FiloBass dataset - published with the paper "FiloBass: A Dataset and Corpus Based Study of Jazz Basslines" at ISMIR2023.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This dataset contains 48 bass transcriptions for the Aebersold backing tracks used with the [FiloSax dataset](https://dave-foster.github.io/filosax/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The released version will contain Music XML scores, performance aligned MIDI and audio for the source separated bass stems. Together we hope this dataset will open up new research fields in automatic music transcription (AMT), performance analysis, generative modelling and automatic music scoring to name a few. If you have any questions please get in touch using the details at the bottom of the page.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Thanks for your interest in our work.
