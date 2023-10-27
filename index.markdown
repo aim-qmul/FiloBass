@@ -33,7 +33,7 @@ Score previews
 * [Doxy ](https://www.soundslice.com/slices/-G-wc/)
 * [For Regulars Only](https://www.soundslice.com/slices/gbQwc/)
 * [Four ](https://www.soundslice.com/slices/nG-wc/)
-* [Fried Banans](https://www.soundslice.com/slices/qsQwc/)
+* [Fried Bananas](https://www.soundslice.com/slices/qsQwc/)
 * [Gone With The Wind](https://www.soundslice.com/slices/HsQwc/)
 * [Have You Met Miss Jones? ](https://www.soundslice.com/slices/TsQwc/)
 * [Honeysuckle Rose ](https://www.soundslice.com/slices/JsQwc/)
