@@ -5,6 +5,11 @@
 layout: home
 ---
 
+Paper
+=====
+
+[Get the paper on arXiv](https://arxiv.org/abs/2311.02023)
+
 Introduction
 ============
 
