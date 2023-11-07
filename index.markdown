@@ -9,6 +9,7 @@ Paper
 =====
 
 [Get the paper on arXiv](https://arxiv.org/abs/2311.02023)
+[Get the data on Zenodo](https://zenodo.org/uploads/10069709)
 
 Introduction
 ============
