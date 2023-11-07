@@ -5,11 +5,18 @@
 layout: home
 ---
 
-Paper
-=====
+Paper and Data
+===============
 
-[Get the paper on arXiv](https://arxiv.org/abs/2311.02023)
-[Get the data on Zenodo](https://zenodo.org/uploads/10069709)
+* [Paper (arXiv)](https://arxiv.org/abs/2311.02023)
+* [Data (Zenodo)](https://zenodo.org/uploads/10069709)
+
+Demo of Audio Alignment
+========================
+
+Synthesised MIDI alignment on the *left* channel, original audio on the *right* channel:
+
+<audio src="https://www.dropbox.com/scl/fi/hay4luf8w9yfx95d7kmg2/FiloBass-Demo-track.mp3?rlkey=6ovduwqcio743k814jt5efdsb&raw=1" controls />
 
 Introduction
 ============
