@@ -10,6 +10,7 @@ Paper and Data
 
 * [Paper (arXiv)](https://arxiv.org/abs/2311.02023)
 * [Data (Zenodo)](https://zenodo.org/uploads/10069709)
+* [Data (GitHub mirror)](https://github.com/aim-qmul/FiloBass/releases/tag/v1.0.0)
 
 Demo of Audio Alignment
 ========================
