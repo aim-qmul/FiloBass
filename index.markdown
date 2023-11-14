@@ -17,7 +17,9 @@ Demo of Audio Alignment
 
 Synthesised MIDI alignment on the *left* channel, original audio on the *right* channel:
 
+<div id="html" markdown="0">
 <audio src="https://www.dropbox.com/scl/fi/hay4luf8w9yfx95d7kmg2/FiloBass-Demo-track.mp3?rlkey=6ovduwqcio743k814jt5efdsb&raw=1" controls />
+</div>
 
 Introduction
 ============
